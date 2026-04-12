@@ -33,6 +33,17 @@ I'm a **Detection Engineer** at [**Atea**](https://www.atea.com/), one of Europe
 
 ---
 
+## 🏆 Certifications
+
+<div align="center">
+
+[![Blue Team Level 1](https://img.shields.io/badge/Blue_Team_Level_1-0077B6?style=for-the-badge&logo=shield&logoColor=white)](https://www.securityblue.team/certifications/blue-team-level-1)
+[![TryHackMe Security Analyst L1](https://img.shields.io/badge/TryHackMe-Security_Analyst_L1-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/certification/security-analyst-level-1)
+
+</div>
+
+---
+
 ## 🧰 My Toolkit
 
 | Platform | Purpose |
