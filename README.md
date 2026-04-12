@@ -40,16 +40,6 @@ I'm a **Detection Engineer** at [**Atea**](https://www.atea.com/), one of Europe
 | 🔵 **Microsoft Sentinel** | Cloud-native SIEM/SOAR — hunting, detection rules & automation |
 | 🔴 **Splunk** | Log aggregation, correlation searches & dashboards |
 
-```kql
-// Life in KQL
-SecurityEvent
-| where EventID == 4625
-| summarize FailedAttempts = count() by Account, Computer
-| where FailedAttempts > 10
-| project Account, Computer, FailedAttempts
-| order by FailedAttempts desc
-```
-
 ---
 
 ## 🎯 What I Do
