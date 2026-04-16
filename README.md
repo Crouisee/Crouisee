@@ -50,6 +50,7 @@ I'm a **Detection Engineer** at [**Atea**](https://www.atea.com/), one of Europe
 |---|---|
 | 🔵 **Microsoft Sentinel** | Cloud-native SIEM/SOAR — hunting, detection rules & automation |
 | 🔴 **Splunk** | Log aggregation, correlation searches & dashboards |
+| 🟣 **Tines** | Security automation and orchestration workflows |
 
 ---
 
